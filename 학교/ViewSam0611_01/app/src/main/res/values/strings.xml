@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewSam0611_01</string>
+    <string name="radio_result">선택한 값</string>
+    <string name="checkbox_result">체크한 값</string>
+</resources>

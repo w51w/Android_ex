@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cjc</string>
+    <string name="height">키</string>
+    <string name="weight">몸무게</string>
+    <string name="result">결과</string>
+    <string name="title">bmi 계산기</string>
+    <string name="sub_title">bmi 결과</string>
+    <string name="gomain">다시 계산하기</string>
+    <string name="myname">이름 : 최종찬</string>
+    <string name="belong_to">소속 : 한국폴리텍대학\n인천캠퍼스</string>
+    <string name="major">학과 : 컴퓨터정보</string>
+    <string name="hobby">취미 : \n하스스톤\n야구</string>
+    <string name="certification">자격증 : \n1종 보통\n정보처리 산업기사 필기 합</string>
+</resources>

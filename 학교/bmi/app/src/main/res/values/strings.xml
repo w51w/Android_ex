@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bmi</string>
+    <string name="height">키</string>
+    <string name="weight">몸무게</string>
+    <string name="result">결과</string>
+    <string name="title">bmi 계산기</string>
+    <string name="sub_title">bmi 결과</string>
+    <string name="gomain">다시 계산하기</string>
+</resources>

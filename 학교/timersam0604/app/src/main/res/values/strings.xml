@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">timersam0604</string>
+    <string name="title">스레드를 이용한 타이머 버전1.0</string>
+    <string name="start">시작</string>
+    <string name="stop">멈춤</string>
+    <string name="wait">잠시멈춤</string>
+    <string name="restart">재시작</string>
+</resources>
