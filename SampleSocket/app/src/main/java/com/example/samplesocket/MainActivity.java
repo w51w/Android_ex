@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         textView = findViewById(R.id.textView1);
         textView2 = findViewById(R.id.textView2);
 
+        //클라이언트
         Button button = findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener(){
 
@@ -49,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //서버
         Button button2 = findViewById(R.id.button2);
         button2.setOnClickListener(new View.OnClickListener(){
 
@@ -66,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void printClientLog(final String data){
         Log.d("MainActivity", data);
+
         handler.post(new Runnable() {
             @Override
             public void run() {
@@ -76,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void printServerLog(final String data){
         Log.d("MainActivity", data);
+
         handler.post(new Runnable() {
             @Override
             public void run() {
